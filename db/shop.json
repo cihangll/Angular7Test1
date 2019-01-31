@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Asus ZenBook",
+      "price": 2500,
+      "categoryId": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1513838747056-b69972e5f504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mause",
+      "description": "A4 Tech",
+      "price": 25,
+      "categoryId": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1513838747056-b69972e5f504?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+      "name": "q",
+      "description": "q",
+      "imageUrl": "q",
+      "categoryId": "1",
+      "price": 1,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
